@@ -36,4 +36,4 @@ Išvados: Iš brėžinio matyti, kad didžiausias skaičius apdraustų žmonių 
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/Shiny R aplikacija.png)
+![shiny app](img/Aplikacija.png)
