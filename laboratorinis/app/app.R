@@ -28,7 +28,7 @@ server <- function(input, output, session) {
   output$plot <- renderPlot(
     data %>%
       filter(name == input$imones_kodas) %>%
-      ggplot(aes(x = month, y = numInsured)) +
+      ggplot(aes(x = month, y = avgWage)) +
       geom_line()      
   )
 }
